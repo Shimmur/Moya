@@ -2,6 +2,10 @@
   <img height="160" src="web/logo_github.png" />
 </p>
 
+# Shimmur/Moya
+
+This fork removes all the reactive dependencies from Moya's core. It might help resolve `modulemap` erors related to such extensions.
+
 # Moya
 
 [![CircleCI](https://img.shields.io/circleci/project/github/Moya/Moya/master.svg)](https://circleci.com/gh/Moya/Moya/tree/master)
